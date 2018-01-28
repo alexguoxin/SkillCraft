@@ -39,7 +39,7 @@ where `LeagueIndex` is the label and other variables are features.
 
 Open the Jupyter Notebook [analysis.ipynb](https://github.com/alexguoxin/SkillCraft1/blob/master/src/analysis.ipynb) in the `src` directory for the analysis. Just hit `Cell` and then `Run All` to run the whole notebook.
 
-Report is the [Report.md]() in the `doc` directory.
+Report is the [Report.md](https://github.com/alexguoxin/SkillCraft1/blob/master/doc/Report.md) in the `doc` directory.
 
 ## Dependencies
 
