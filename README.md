@@ -1,4 +1,4 @@
-# SkillCraft1
+# SkillCraft
 
 DSCI 573 Lab 2 Exercise 4 Mini-project
 
@@ -16,9 +16,9 @@ There are 3395 observations and 20 variables, where `LeagueIndex` is the label a
 
 ## Usage
 
-Open the Jupyter Notebook [analysis.ipynb](https://github.com/alexguoxin/SkillCraft1/blob/master/src/analysis.ipynb) in the `src` directory for the analysis. Just hit `Cell` and then `Run All` to run the whole notebook.
+Open the Jupyter Notebook [analysis.ipynb](https://github.com/alexguoxin/SkillCraft/blob/master/src/analysis.ipynb) in the `src` directory for the analysis. Just hit `Cell` and then `Run All` to run the whole notebook.
 
-Report is the [Report.md](https://github.com/alexguoxin/SkillCraft1/blob/master/doc/Report.md) in the `doc` directory.
+Report is the [Report.md](https://github.com/alexguoxin/SkillCraft/blob/master/doc/Report.md) in the `doc` directory.
 
 ## Dependencies
 

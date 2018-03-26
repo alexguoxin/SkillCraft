@@ -54,25 +54,25 @@ Since the label is categorical (1-8), I tried Logistic Regression with L1 and L2
 ![](figure/3.png)
 
 - Best C: 0.01
-- Training score: 0.40262172284644193
-- Test score: 0.4026946107784431
+- Training score: 0.40
+- Test score: 0.40
 
 ### For L2 regularization
 
 ![](figure/4.png)
 
 - Best C: 0.01
-- Training score: 0.4153558052434457
-- Test score: 0.4026946107784431
+- Training score: 0.42
+- Test score: 0.40
 
 From the plots and results above, we can see that the performance of the two models are similar. Let's check how many features they used in the models with the best `C`.
 
 Since the label is categorical, logistic function will fit a regression model to each level.
 
 - For L1 regularization:
-	- Average number of selected features in each level: 5.857142857142857
+	- Average number of selected features in each level: 5.86
 - For L2 regularization:
-	- Average number of selected features in each level: 17.714285714285715
+	- Average number of selected features in each level: 17.71
 
 From the result above, we can see that the average number of selected features using in each level from the model with L1 regularization (5.86) is much less than the one with L2 regularization (17.71), which means the fomer model is much simpler.
 
